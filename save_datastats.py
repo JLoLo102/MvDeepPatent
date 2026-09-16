@@ -4,7 +4,7 @@ import torch
 
 from tools.ImgDataset import MultiviewImgDataset
 
-train_dataset = MultiviewImgDataset("/home/just/dataset/jll/selected_1000/train_3D", scale_aug=False, rot_aug=False, num_models=1000, num_views=5)
+train_dataset = MultiviewImgDataset("*/selected_1000/train_3D", scale_aug=False, rot_aug=False, num_models=1000, num_views=5)
 train_loader = torch.utils.data.DataLoader(train_dataset, batch_size=16, shuffle=True, num_workers=16)
 labels = []
 class_labels=[]
