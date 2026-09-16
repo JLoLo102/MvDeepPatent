@@ -4,7 +4,7 @@ from multiprocessing import Pool, cpu_count
 import traceback
 
 # 设置路径和输出文件
-root_dir = "/home/wangfei/dataset/jll/testData/out_test"
+root_dir = "*/testData/out_test"
 output_file = "top_2000_folders_test.txt"
 error_log_file = "error_log.txt"
 
