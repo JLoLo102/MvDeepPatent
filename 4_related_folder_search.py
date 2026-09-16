@@ -1,7 +1,7 @@
 import os
 
 # 设置要搜索的根目录路径
-root_dir = "/home/wangfei/dataset/jll/testData/out_test"
+root_dir = "*/testData/out_test"
 input_file = "common_folders.txt"
 
 folder_names = []
