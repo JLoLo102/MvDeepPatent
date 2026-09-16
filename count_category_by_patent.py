@@ -5,7 +5,7 @@ import os
 # 配置区（你只需要改这里）
 # ===============================
 
-DATA_ROOT = "/home/just/dataset/jll/patent_3D_v2"
+DATA_ROOT = "*/patent_3D_v2"
 
 TRAIN_DIR = os.path.join(DATA_ROOT, "new_train_3D")
 TEST_DIR  = os.path.join(DATA_ROOT, "new_test_3D")
