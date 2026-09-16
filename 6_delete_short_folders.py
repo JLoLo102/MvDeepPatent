@@ -23,5 +23,5 @@ def delete_small_folders(root_dir, min_file_count=5):
                 shutil.rmtree(sub_path)
 
 # 示例使用：替换为你的实际路径
-root_folder = '/home/just/dataset/jll/patent_3D_1/test_3D'  # 修改为你的主目录路径
+root_folder = '*/test_3D'  # 修改为你的主目录路径
 delete_small_folders(root_folder)
