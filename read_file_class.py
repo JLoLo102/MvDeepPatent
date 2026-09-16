@@ -13,5 +13,5 @@ def save_subfolder_names(folder_path, output_txt="file_name_1000.txt"):
     print(f"✅ 已保存 {len(subfolders)} 个子文件夹名称到：{output_path}")
 
 # ===== 使用示例 =====
-folder_path = r"/home/just/dataset/jll/selected_1000/output_3D/test"  # 替换为你的文件夹路径
+folder_path = r"*/selected_1000/output_3D/test"  # 替换为你的文件夹路径
 save_subfolder_names(folder_path)
