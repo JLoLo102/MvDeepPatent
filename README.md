@@ -64,10 +64,10 @@ The selected views are subsequently arranged according to the predefined viewpoi
 
 To evaluate recognition performance under different levels of semantic/category granularity, three category-specific subsets are constructed:
 
-Subset	Number of Categories
-MvDeepPatent-527	527
-MvDeepPatent-1000	1,000
-MvDeepPatent-4449	4,449
+Subset	Number of Categories:
+MvDeepPatent-527,
+MvDeepPatent-1000,
+MvDeepPatent-4449
 
 The category subsets are constructed according to the hierarchical design patent taxonomy.
 
