@@ -6,9 +6,9 @@ from multiprocessing import Pool, cpu_count
 from collections import defaultdict
 
 # === 配置部分 ===
-json_file = '/home/just/dataset/wyh/testData/test.json'  # JSON 文件名
-image_dir = '/home/just/dataset/wyh/testData/Segmentednew'  # 原始图片目录
-output_dir = '/home/just/dataset/jll/testData_search'  # 输出分类后的根目录
+json_file = '*/testData/test.json'  # JSON 文件名
+image_dir = '*/testData/Segmentednew'  # 原始图片目录
+output_dir = '*/testData_search'  # 输出分类后的根目录
 log_file = 'copy_errors.log'  # 错误日志文件路径
 
 num_workers = cpu_count()  # 自动使用最大核心数
