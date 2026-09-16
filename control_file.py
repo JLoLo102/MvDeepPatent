@@ -5,7 +5,7 @@ import random
 from tqdm import tqdm
 
 # === 用户参数 ===
-root_dir = "/home/just/dataset/jll/selected_1000/"   # 数据集根目录，包含 train_3D/ 和 test_3D/
+root_dir = "*/selected_1000/"   # 数据集根目录，包含 train_3D/ 和 test_3D/
 train_dir = os.path.join(root_dir, "train_3D")
 test_dir = os.path.join(root_dir, "test_3D")
 
