@@ -40,12 +40,6 @@ A view is retained when its corresponding patent figure is valid and the require
 
 Patents containing fewer than five valid image-text view pairs are excluded from the benchmark.
 
-Therefore,
-
-[M_i \geq 5]
-
-for every patent retained in MvDeepPatent.
-
 2.4 Viewpoint-Specific Text
 
 The textual information in MvDeepPatent is automatically constructed from the U.S. design patent descriptions available in DeepPatent2.
@@ -60,9 +54,7 @@ If a patent contains exactly five valid views, all five views are retained.
 
 If a patent contains more than five valid views, five views are selected from the available valid views according to the dataset construction protocol.
 
-The view-selection procedure is deterministic under the released preprocessing configuration and uses a fixed random seed of:
-
-42
+The view-selection procedure is deterministic under the released preprocessing configuration and uses a fixed random seed of:42. 
 
 Sampling is performed without replacement, and no view is duplicated within a patent.
 
