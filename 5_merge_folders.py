@@ -5,9 +5,9 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 
 # ========== 🔧 配置路径 ==========
-txt_folder = '/home/just/dataset/jll/train_3D'       # 包含 *_related.txt 的目录
-source_root = '/home/just/dataset/jll/trainData_search'         # 所有源文件夹所在位置
-target_root = '/home/just/dataset/jll/patent_3D_1/train_3D'          # 输出根目录
+txt_folder = '*/train_3D'       # 包含 *_related.txt 的目录
+source_root = '*/trainData_search'         # 所有源文件夹所在位置
+target_root = '*/train_3D'          # 输出根目录
 log_file = 'copy_failures_merge.log'                  # 失败日志文件路径
 
 # ========== 📝 写入失败日志 ==========
