@@ -1,0 +1,527 @@
+accessory for spinning top toy
+adapter
+aerial vehicle
+air compressor
+air conditioner
+air filter
+air purifier
+aircraft
+antenna
+apparatus
+applicator
+armchair
+aroma diffuser
+audio device
+audio input
+auto stereo mounting device
+automobile
+automobile tire
+automotive wheel
+backpack
+bag
+bag for food packing
+ball
+band
+basket
+bathtub
+battery
+battery case
+battery charger
+battery pack
+belt
+bench
+beverage bottle
+beverage container
+beverage container lid
+beverage dispenser
+beverage holder
+beverage machine
+bicycle frame
+bicycle seat
+bin
+bird feeder
+blender
+blender base
+blister package
+bluetooth speaker
+boat
+boot
+bottle
+bottle cap
+bottle lid
+bottle opener
+bottle with cap
+bowl
+box
+bra
+bracelet
+bracket
+brassiere
+brush
+brush handle
+buckle
+building block
+bus
+busbar
+cabinet
+caddy
+camera
+camera housing
+camera mount
+cap
+car
+carrier
+cart
+carton
+cartridge
+case
+case for a smartphone
+case for electronic communications device
+case for electronic device
+case for electronic devices
+ceiling fan
+ceiling fan blade
+ceiling fan motor housing
+chair
+charger
+charging device
+charging station
+clamp
+cleaner
+clip
+closeable container
+closure
+coffee machine
+coffee maker
+combination ceiling fan and light fixture
+communication device
+communications headset
+compressor
+computer
+confection
+connector
+connector housing
+console
+construction set element
+container
+container for food packing
+container lid
+control device
+control panel
+controller
+cooking apparatus
+cooking pan
+cooler
+cosmetic brush
+cosmetic container
+counter medicinal container
+cover
+cover for electronic communications device
+cup
+cup holder
+cushion
+cutting insert
+cutting tool
+desk
+device
+dial
+digital camera
+dispenser
+display
+display device
+display panel
+display panel or screen
+display screen
+display screen portion with animated graphical user interface
+display screen with animated graphical user interface
+display screen with graphical user interface
+display stand
+display unit
+docking station
+doll
+door
+door for refrigerator
+doorbell
+drone
+earbud
+earphone
+earphones
+earring
+electric connector
+electric motor
+electric scooter
+electric toothbrush
+electrical connector
+electronic cigarette
+electronic device
+electronic device cover
+electronic device mount
+excavator
+exercise device
+eyeglasses
+eyewear
+fan
+faucet
+faucet handle
+faucet spout
+figurine
+filter
+filter cartridge
+filter unit
+fishing lure
+fishing reel
+flashlight
+floor lamp
+fluid pressure cylinder
+folding knife
+food container
+food processor
+food product
+food tray
+footwear
+footwear sole
+footwear upper
+front bumper
+front bumper for a vehicle
+front bumper for an automobile
+front combination lamp for an automobile
+furniture
+game controller
+gaming machine
+garment
+garment hanger
+gemstone
+glasses
+glove
+golf ball
+golf club head
+golf shoe upper
+grill
+grille
+ground engaging machine implement
+hair brush
+hair clip
+hair clipper
+hair dryer
+hair straightener
+hammer
+hand tool
+handbag
+handle
+hanger
+hat
+head mounted display
+head-mounted display
+headlamp
+headlamp for an automobile
+headlight
+headlight for a vehicle
+headphone
+headphones
+headset
+heater
+helmet
+hinge
+holder
+holster
+hook
+housing
+humidifier
+industrial robot
+information handling system
+inhaler
+injection device
+injector device
+ink cartridge
+insole
+instrument panel for an automobile
+insulating device
+invention
+inverter
+iron golf club head
+jacket
+jar
+jewelry
+jewelry article
+jewelry item
+jug
+jump starter
+kettle
+keyboard
+keypad
+kiosk
+knife
+knife block
+knife handle
+lacrosse head
+lamp
+lantern
+laser device
+led bulb
+led lamp
+led light
+lens
+lens for camera
+license plate frame
+lid
+lid for a container
+lid for beverage container
+light
+light bar
+light bulb
+light emitting diode
+light fixture
+lighter
+lighting apparatus
+lighting device
+lighting fixture
+linear actuator
+liquid container
+lock
+loudspeaker
+lounge chair
+luggage
+luminaire
+makeup brush
+makeup mirror
+mask
+massage device
+massager
+mat
+mattress
+mattress cover
+medical device
+medical injector
+microphone
+microscope
+microwave oven
+mirror
+mixer
+mobile device
+mobile phone
+mobile phone case
+mobile terminal
+monitor
+monitoring camera
+motor scooter
+motor vehicle
+motorcycle
+motorcycle tire
+mount for electronic devices
+mouse
+mug
+multi-function printer
+napkin holder
+neck pillow
+necklace
+notebook computer
+nozzle
+office chair
+oral care implement
+oral irrigator
+organizer
+ornament
+oven
+package
+packaging
+packaging box
+packaging container
+pallet truck
+pan
+pants
+paper towel holder
+pen
+pendant
+perfume bottle
+pet toy
+pet treat
+phone case
+pillow
+planter
+plastic container
+plate
+pliers
+plush toy
+portable computer
+portable electronic device
+portable light
+portable terminal
+pouch
+power adapter
+power bank
+power strip
+power supply
+power tool
+printer
+projector
+protective cover
+pump
+putter head
+rack
+razor cartridge
+razor handle
+rear bumper
+rear bumper for a vehicle
+rear bumper for an automobile
+rear combination lamp for an automobile
+rear fender for a vehicle
+refrigerator
+remote control
+remote controller
+respiratory mask
+ring
+robot
+robot toy
+router
+sandal
+scanner
+scissors
+scooter
+seat
+seat cushion
+security camera
+semiconductor device
+semiconductor module
+sensor
+sensor housing
+sewing machine
+sex toy
+shaving device
+shelf
+shirt
+shoe
+shoe midsole
+shoe outsole
+shoe sole
+shoe upper
+shopping cart
+shorts
+shower head
+showerhead
+single-sole shoe
+sink
+skateboard
+sleeve
+slider
+smart watch
+smartphone case
+snack food product
+soap dispenser
+sock
+socket
+sofa
+solar cell
+solar lamp
+solar light
+solar panel
+sole
+sole for footwear
+sole structure
+speaker
+spinning top toy
+spotlight
+spout
+sprayer
+stand
+steering wheel
+stool
+storage box
+storage case
+storage container
+strap
+stroller
+suitcase
+sunglasses
+surveillance camera
+swimsuit
+switch
+syringe
+table
+table lamp
+tablet case
+tablet computer
+taillight for a vehicle
+telephone
+television
+television receiver
+tent
+terminal
+thereof
+thermometer
+thermostat
+tile
+tip for a ground engaging machine implement
+tire
+tire for automobile
+tire for motorcycle
+tire tread
+toaster
+toilet
+toner cartridge
+tool
+tool box
+tool handle
+toothbrush
+toothbrush head
+tote bag
+toy
+toy block
+toy figure
+tracking device
+tractor
+trash can
+tray
+tumbler
+unmanned aerial vehicle
+upper for a shoe
+utility knife
+vacuum cleaner
+valve
+vaporizer
+vehicle
+vehicle bumper
+vehicle exterior
+vehicle fender
+vehicle floor mat
+vehicle front bumper
+vehicle front lower bumper cover
+vehicle front lower grille
+vehicle front upper bumper cover
+vehicle front upper grille
+vehicle grille
+vehicle headlight
+vehicle hood
+vehicle lamp
+vehicle light
+vehicle mirror
+vehicle rear lower bumper cover
+vehicle seat
+vehicle tail lamp
+vehicle taillight
+vehicle wheel
+vending machine
+vibrator
+video camera
+wallet
+washing machine
+watch
+watch band
+watch case
+watch dial
+water bottle
+water filter
+wearable device
+wearable electronic device
+wheel
+window component extrusion
+wireless charger
+wireless earphone
+wireless headset
+wireless speaker
+work light
+wrench
+wrist watch
+wristband
+wristwatch
+writing instrument
+wheel for an automobile
