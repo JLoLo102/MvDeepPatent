@@ -16,7 +16,7 @@ MvDeepPatent reorganizes the figure-level records in DeepPatent2 into patent-lev
 MvDeepPatent is constructed from the publicly available DeepPatent2 dataset:
 
 Ajayi et al., DeepPatent2: A Large-Scale Multi-Modal Dataset for Patent Analysis. 
-Github link:  https://github.com/ lamps-lab/Patent-figure-segmentor and https://github.com/GoFigure-LANL/figure-segmentation.
+Github link:  https://github.com/lamps-lab/Patent-figure-segmentor and https://github.com/GoFigure-LANL/figure-segmentation.
 
 Please refer to the original DeepPatent2 repository and publication for the source dataset and its licensing/usage conditions.
 
