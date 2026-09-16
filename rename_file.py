@@ -42,5 +42,5 @@ def flatten_and_rename(base_dir):
                 os.rename(folder_path, new_folder_path)
 
 if __name__ == "__main__":
-    base_directory = "/home/just/dataset/jll/patent_3D_v2/train_3D"
+    base_directory = "*/train_3D"
     flatten_and_rename(base_directory)
