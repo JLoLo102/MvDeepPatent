@@ -3,13 +3,11 @@
 MvDeepPatent is a multi-view design patent benchmark constructed from the publicly available DeepPatent2 dataset. Unlike the original figure-level organization of DeepPatent2, MvDeepPatent groups multiple patent figures belonging to the same patent into a unified multi-view instance and associates each view with viewpoint-specific textual information.
 
 The dataset is developed to support research on multi-view visual recognition, multi-view multimodal representation learning, and design patent recognition/retrieval.
-
 1. Overview
 
 Design patents typically contain multiple views of the same patented object, such as front, rear, left, right, top, and bottom views. Treating these figures independently may lose the structural relationships among different viewpoints.
 
 MvDeepPatent reorganizes the figure-level records in DeepPatent2 into patent-level multi-view instances. Each retained patent contains at least five valid image-text view pairs.
-
 2. Dataset Construction
 2.1 Source Dataset
 
@@ -45,7 +43,6 @@ Patents containing fewer than five valid image-text view pairs are excluded from
 The textual information in MvDeepPatent is automatically constructed from the U.S. design patent descriptions available in DeepPatent2.
 
 Viewpoint-related keywords and descriptions are extracted to associate textual information with individual patent views. The text is therefore automatically generated from the original patent descriptions rather than manually written annotations.
-
 3. View Selection
 
 To provide a consistent multi-view input format, the main experiments use five views per patent.
