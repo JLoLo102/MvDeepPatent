@@ -4,9 +4,9 @@ from tqdm import tqdm
 
 # 源文件夹路径
 for i in range(0,1):
-    source_folder = '/home/wangfei/dataset/jll/PatFigCLS/uspc/val/'+f"shard-{i:06d}"
+    source_folder = '*/val/'+f"shard-{i:06d}"
     # 目标文件夹路径（你想要存放整理后文件的地方）
-    target_folder = '/home/wangfei/dataset/jll/patentUspcNet/patent_object_val'
+    target_folder = '*/patent_object_val'
 
     # 确保目标文件夹存在
     os.makedirs(target_folder, exist_ok=True)
